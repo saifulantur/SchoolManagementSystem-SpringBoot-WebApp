@@ -32,7 +32,7 @@
 	                  <li><a href="${pageContext.request.contextPath}/class">Class</a></li>
 	                   <li><a href="${pageContext.request.contextPath}/subject">Subject</a></li>
 	                    <li><a href="${pageContext.request.contextPath}/section">Section</a></li>
-	                     <li><a href="${pageContext.request.contextPath}/brands">Student Group</a></li>
+	                     <li><a href="${pageContext.request.contextPath}/studentGroup">Student Group</a></li>
 	                      <li><a href="${pageContext.request.contextPath}/brands">Group Subjects</a></li>
 	                        <li><a href="${pageContext.request.contextPath}/brands">Designation</a></li>
 	                       
