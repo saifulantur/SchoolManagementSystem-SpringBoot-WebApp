@@ -47,6 +47,11 @@
         <put-attribute name="title" value="SM | Subject" />
         <put-attribute name="content" value="/WEB-INF/tiles/subject.jsp" />
     </definition>
+    
+       <definition name="viewSection" extends="app.homepage">
+        <put-attribute name="title" value="SM | Section" />
+        <put-attribute name="content" value="/WEB-INF/tiles/section.jsp" />
+    </definition>
    
 </tiles-definitions>
 
