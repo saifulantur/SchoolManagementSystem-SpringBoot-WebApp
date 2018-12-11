@@ -14,7 +14,7 @@
 
 		<form action="/login" method="post"> <!--  class="form-horizontal"> -->
 			<div class="mb-4 text-center">
-				<img height="20%" width="20%" src="/img/school_icon.png">
+				<img height="30%" width="30%" src="/img/school_icon.png">
 
 				<h1 class="h3"  style="color:#F9C032;">School Management System</h1>
 				<br /> <br />
